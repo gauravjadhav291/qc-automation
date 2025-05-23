@@ -1,0 +1,27 @@
+{
+    "Office_breadcrum": {
+      "Procurement_main_page":"Procurement  Procurement (New)  Procurement Main",
+      "List_Page":"Procurement  Procurement (New)  Lists",
+      "Item_list_page" : "Procurement  Procurement (New)  Items List",
+      "Catalogue_List_Page":"Procurement  Procurement (New)  Catalogue List",
+      "Company_Registry":"Procurement  Supplier List  Company Registry (New)",
+      "GL_Account" :"Admin  Finance Setup  GL Account Library",
+      "Supplier_Invoice":"Accounts  Supplier Invoice  Supplier Invoice Main",
+     "Reporting_Structure": "Admin  Finance Setup  Reporting Structures",
+     "Tax_code_library":"Admin  Finance Setup  Tax Code Library",
+     "Project_Library":"Admin  Finance Setup  Project Library",
+    "Journal_Entry": "Accounts  Finance  Journal Entries Main",
+     "J3_Budget":"Accounts  Budget  Budget Setup (New)",
+     "Management_Contracts":"Admin  Finance Setup  Management Contracts",
+     "WRH":"QHSE  Work and Rest Hours  Work and Rest Hour Main (New)",
+     "Tags":"Admin - JiBe  PMS (new)  Tags"
+    },
+
+    "Vessel_breadcrum": {
+      "Procurement_main_page":"Procurement (New)Procurement Main",
+      "List_Page":"Procurement (New)Lists",
+      "Item_list_page" : "Procurement (New)Items List",
+      "Catalogue_List_Page":"Procurement (New)Catalogue List"
+    }
+
+}

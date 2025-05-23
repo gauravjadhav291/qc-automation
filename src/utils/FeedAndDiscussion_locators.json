@@ -1,0 +1,16 @@
+{
+  "Feed_Discussion": {
+    "inputBoxClick": "//textarea[@placeholder='Add a comment. Use @ to mention a person.']",
+    "sendButton": "span[class='pi jibe-sent']",
+    "addedCommentValidation": "(//div[@class='feed-body'])[1]",
+    "maximizeIcon": "//i[@class='jibe-maximize ng-star-inserted']",
+    "editIcon": "(//i[@class='jibe-edit'])[1]",
+    "headerSection": "(//div[@class='feed-header ng-star-inserted'])[1]",
+    "userValidation": "(//div[@triggers='mouseenter mouseover'])[1]",
+    "dateValidation": "(//div[@class='feed-time-stamp'])[1]",
+    "feedIconClick": "//i[@class='widget-header-title__icon jibe-chat-room']",
+    "hoverAction": "(//div[@class='feed-header-container'])[1]",
+    "editTextBox": "(//textarea[@placeholder='Add a comment. Use @ to mention a person.'])[2]",
+    "sendEditButton": "//i[@class='jibe-done ng-star-inserted']"
+  }
+}

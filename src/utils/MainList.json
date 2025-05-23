@@ -1,0 +1,60 @@
+{
+  "Parent_Menu": {
+    "Expected_menuNames": [
+      "Dashboard",
+      "Admin",
+      "Admin - JiBe",
+      "Accounts",
+      "Crewing",
+      "Dry-Dock",
+      "Inspection",
+      "Operations",
+      "QHSE",
+      "Procurement",
+      "Technical",
+      "Certificates",
+      "Travel Agent",
+      "Travel",
+      "Insurance",
+      "Insights",
+      "Ports",
+      "Help Center",
+      "Projects",
+      "Chartering"
+    ]
+  },
+  "Sub_Menu": {
+    "QHSE_Submenu_Items": [
+      "Document Manager",
+      "Environmental Meetings",
+      "Environmental Reports",
+      "Form Manager",
+      "Incidents and Near-Misses",
+      "Master Review",
+      "MOC",
+      "Office Tasks",
+      "Risk Assessment",
+      "Safety Committee Meeting",
+      "TMSA Report",
+      "Unsafe Act/Condition",
+      "Vessel Drills and Trainings",
+      "Vessel Tasks",
+      "Work and Rest Hours",
+      "Corrective Actions (CAR J3)",
+      "Worklist Main",
+      "Corrective Actions (CAR)",
+      "Office Tasks",
+      "Incidents and Near-Misses",
+      "Fleet Broadcast Message",
+      "Drug and Alcohol Test",
+      "Environmental Meeting",
+      "Master's Review",
+      "Camera Record",
+      "Permits To Work",
+      "Fatality Prevention"
+    ]
+  },
+  "Sub_Sub_Menu": {
+    "Procurement_main_page": "Procurement (New)Procurement Main"
+  }
+}
